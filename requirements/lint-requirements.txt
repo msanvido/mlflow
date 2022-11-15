@@ -1,3 +1,4 @@
 pylint==2.11.1
 rstcheck==3.2
 black==21.10b0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
